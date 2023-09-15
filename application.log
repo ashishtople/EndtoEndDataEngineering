@@ -1,0 +1,835 @@
+2023-09-12 19:04:25,971 - root - INFO - starting the logging
+2023-09-12 19:04:25,973 - root - INFO - Calling spark object
+2023-09-12 19:04:25,973 - create_spark - INFO - get_spark_object started
+2023-09-12 19:04:25,973 - create_spark - INFO - get_spark_object started
+2023-09-12 19:04:25,973 - create_spark - INFO - master is local
+2023-09-12 19:04:25,973 - create_spark - INFO - master is local
+2023-09-12 19:04:31,228 - create_spark - INFO - spark object created
+2023-09-12 19:04:31,228 - create_spark - INFO - spark object created
+2023-09-12 19:04:31,228 - root - INFO - validating spark object
+2023-09-12 19:04:31,229 - validate - WARNING - started the get current date method
+2023-09-12 19:04:31,229 - validate - WARNING - started the get current date method
+2023-09-12 19:04:34,247 - validate - WARNING - Validating current date[Row(current_date()=datetime.date(2023, 9, 12))]
+2023-09-12 19:04:34,247 - validate - WARNING - Validating current date[Row(current_date()=datetime.date(2023, 9, 12))]
+2023-09-12 19:04:34,247 - validate - WARNING - Validation Done
+2023-09-12 19:04:34,247 - validate - WARNING - Validation Done
+2023-09-12 19:04:34,247 - root - INFO - Application Done
+2023-09-12 19:15:06,374 - root - INFO - starting the logging
+2023-09-12 19:15:06,374 - root - INFO - Calling spark object
+2023-09-12 19:15:06,374 - create_spark - INFO - get_spark_object started
+2023-09-12 19:15:06,374 - create_spark - INFO - get_spark_object started
+2023-09-12 19:15:06,375 - create_spark - INFO - master is local
+2023-09-12 19:15:06,375 - create_spark - INFO - master is local
+2023-09-12 19:15:10,612 - create_spark - INFO - spark object created
+2023-09-12 19:15:10,612 - create_spark - INFO - spark object created
+2023-09-12 19:15:10,612 - root - INFO - validating spark object
+2023-09-12 19:15:10,612 - validate - WARNING - started the get current date method
+2023-09-12 19:15:10,612 - validate - WARNING - started the get current date method
+2023-09-12 19:15:14,077 - validate - WARNING - Validating current date[Row(current_date()=datetime.date(2023, 9, 12))]
+2023-09-12 19:15:14,077 - validate - WARNING - Validating current date[Row(current_date()=datetime.date(2023, 9, 12))]
+2023-09-12 19:15:14,077 - validate - WARNING - Validation Done
+2023-09-12 19:15:14,077 - validate - WARNING - Validation Done
+2023-09-12 19:15:14,077 - root - INFO - validating File Type
+2023-09-12 19:15:14,078 - root - INFO - Application Done
+2023-09-12 19:23:41,763 - root - INFO - starting the logging
+2023-09-12 19:23:41,776 - root - INFO - Calling spark object
+2023-09-12 19:23:41,776 - create_spark - INFO - get_spark_object started
+2023-09-12 19:23:41,776 - create_spark - INFO - get_spark_object started
+2023-09-12 19:23:41,776 - create_spark - INFO - master is local
+2023-09-12 19:23:41,776 - create_spark - INFO - master is local
+2023-09-12 19:23:46,688 - create_spark - INFO - spark object created
+2023-09-12 19:23:46,688 - create_spark - INFO - spark object created
+2023-09-12 19:23:46,688 - root - INFO - validating spark object
+2023-09-12 19:23:46,688 - validate - WARNING - started the get current date method
+2023-09-12 19:23:46,688 - validate - WARNING - started the get current date method
+2023-09-12 19:23:49,800 - validate - WARNING - Validating current date[Row(current_date()=datetime.date(2023, 9, 12))]
+2023-09-12 19:23:49,800 - validate - WARNING - Validating current date[Row(current_date()=datetime.date(2023, 9, 12))]
+2023-09-12 19:23:49,801 - validate - WARNING - Validation Done
+2023-09-12 19:23:49,801 - validate - WARNING - Validation Done
+2023-09-12 19:23:49,801 - root - INFO - validating File Type
+2023-09-12 19:23:49,808 - root - INFO - Application Done
+2023-09-12 19:25:00,939 - root - INFO - starting the logging
+2023-09-12 19:25:00,939 - root - INFO - Calling spark object
+2023-09-12 19:25:00,939 - create_spark - INFO - get_spark_object started
+2023-09-12 19:25:00,939 - create_spark - INFO - get_spark_object started
+2023-09-12 19:25:00,939 - create_spark - INFO - master is local
+2023-09-12 19:25:00,939 - create_spark - INFO - master is local
+2023-09-12 19:25:05,112 - create_spark - INFO - spark object created
+2023-09-12 19:25:05,112 - create_spark - INFO - spark object created
+2023-09-12 19:25:05,112 - root - INFO - validating spark object
+2023-09-12 19:25:05,112 - validate - WARNING - started the get current date method
+2023-09-12 19:25:05,112 - validate - WARNING - started the get current date method
+2023-09-12 19:25:07,931 - validate - WARNING - Validating current date[Row(current_date()=datetime.date(2023, 9, 12))]
+2023-09-12 19:25:07,931 - validate - WARNING - Validating current date[Row(current_date()=datetime.date(2023, 9, 12))]
+2023-09-12 19:25:07,931 - validate - WARNING - Validation Done
+2023-09-12 19:25:07,931 - validate - WARNING - Validation Done
+2023-09-12 19:25:07,931 - root - INFO - validating File Type
+2023-09-12 19:25:07,931 - root - INFO - File Type is .CSV for olist_customers_dataset.csv
+2023-09-12 19:25:07,931 - root - INFO - File Type is .CSV for olist_orders_dataset.csv
+2023-09-12 19:25:07,931 - root - INFO - File Type is .CSV for olist_order_items_dataset.csv
+2023-09-12 19:25:07,931 - root - INFO - File Type is .CSV for olist_products_dataset.csv
+2023-09-12 19:25:07,931 - root - INFO - Application Done
+2023-09-12 19:25:42,030 - root - INFO - starting the logging
+2023-09-12 19:25:42,030 - root - INFO - Calling spark object
+2023-09-12 19:25:42,031 - create_spark - INFO - get_spark_object started
+2023-09-12 19:25:42,031 - create_spark - INFO - get_spark_object started
+2023-09-12 19:25:42,031 - create_spark - INFO - master is local
+2023-09-12 19:25:42,031 - create_spark - INFO - master is local
+2023-09-12 19:25:46,233 - create_spark - INFO - spark object created
+2023-09-12 19:25:46,233 - create_spark - INFO - spark object created
+2023-09-12 19:25:46,233 - root - INFO - validating spark object
+2023-09-12 19:25:46,233 - validate - WARNING - started the get current date method
+2023-09-12 19:25:46,233 - validate - WARNING - started the get current date method
+2023-09-12 19:25:49,025 - validate - WARNING - Validating current date[Row(current_date()=datetime.date(2023, 9, 12))]
+2023-09-12 19:25:49,025 - validate - WARNING - Validating current date[Row(current_date()=datetime.date(2023, 9, 12))]
+2023-09-12 19:25:49,025 - validate - WARNING - Validation Done
+2023-09-12 19:25:49,025 - validate - WARNING - Validation Done
+2023-09-12 19:25:49,025 - root - INFO - validating File Type
+2023-09-12 19:25:49,025 - root - INFO - File Type is .CSV for olist_customers_dataset.csv
+2023-09-12 19:25:49,025 - root - INFO - File Type is .CSV for olist_orders_dataset.csv
+2023-09-12 19:25:49,025 - root - INFO - File Type is .CSV for olist_order_items_dataset.csv
+2023-09-12 19:25:49,025 - root - INFO - File Type is .CSV for olist_products_dataset.csv
+2023-09-12 19:25:49,025 - root - INFO - Application Done
+2023-09-12 19:26:21,786 - root - INFO - starting the logging
+2023-09-12 19:26:21,786 - root - INFO - Calling spark object
+2023-09-12 19:26:21,787 - create_spark - INFO - get_spark_object started
+2023-09-12 19:26:21,787 - create_spark - INFO - get_spark_object started
+2023-09-12 19:26:21,787 - create_spark - INFO - master is local
+2023-09-12 19:26:21,787 - create_spark - INFO - master is local
+2023-09-12 19:26:26,020 - create_spark - INFO - spark object created
+2023-09-12 19:26:26,020 - create_spark - INFO - spark object created
+2023-09-12 19:26:26,020 - root - INFO - validating spark object
+2023-09-12 19:26:26,020 - validate - WARNING - started the get current date method
+2023-09-12 19:26:26,020 - validate - WARNING - started the get current date method
+2023-09-12 19:26:28,780 - validate - WARNING - Validating current date[Row(current_date()=datetime.date(2023, 9, 12))]
+2023-09-12 19:26:28,780 - validate - WARNING - Validating current date[Row(current_date()=datetime.date(2023, 9, 12))]
+2023-09-12 19:26:28,780 - validate - WARNING - Validation Done
+2023-09-12 19:26:28,780 - validate - WARNING - Validation Done
+2023-09-12 19:26:28,780 - root - INFO - validating File Type
+2023-09-12 19:26:28,780 - root - INFO - File Type is .CSV for olist_customers_dataset.csv
+2023-09-12 19:26:28,781 - root - INFO - File Type is .CSV for olist_orders_dataset.csv
+2023-09-12 19:26:28,781 - root - INFO - File Type is .CSV for olist_order_items_dataset.csv
+2023-09-12 19:26:28,781 - root - INFO - File Type is .CSV for olist_products_dataset.csv
+2023-09-12 19:26:28,781 - root - INFO - Application Done
+2023-09-12 19:27:34,807 - root - INFO - starting the logging
+2023-09-12 19:27:34,807 - root - INFO - Calling spark object
+2023-09-12 19:27:34,808 - create_spark - INFO - get_spark_object started
+2023-09-12 19:27:34,808 - create_spark - INFO - get_spark_object started
+2023-09-12 19:27:34,808 - create_spark - INFO - master is local
+2023-09-12 19:27:34,808 - create_spark - INFO - master is local
+2023-09-12 19:27:38,875 - create_spark - INFO - spark object created
+2023-09-12 19:27:38,875 - create_spark - INFO - spark object created
+2023-09-12 19:27:38,875 - root - INFO - validating spark object
+2023-09-12 19:27:38,875 - validate - WARNING - started the get current date method
+2023-09-12 19:27:38,875 - validate - WARNING - started the get current date method
+2023-09-12 19:27:41,795 - validate - WARNING - Validating current date[Row(current_date()=datetime.date(2023, 9, 12))]
+2023-09-12 19:27:41,795 - validate - WARNING - Validating current date[Row(current_date()=datetime.date(2023, 9, 12))]
+2023-09-12 19:27:41,795 - validate - WARNING - Validation Done
+2023-09-12 19:27:41,795 - validate - WARNING - Validation Done
+2023-09-12 19:27:41,795 - root - INFO - validating File Type
+2023-09-12 19:27:41,796 - root - INFO - File Type is .CSV for olist_customers_dataset.csv
+2023-09-12 19:27:41,796 - root - INFO - File Type is .CSV for olist_orders_dataset.csv
+2023-09-12 19:27:41,796 - root - INFO - File Type is .CSV for olist_order_items_dataset.csv
+2023-09-12 19:27:41,796 - root - INFO - File Type is .CSV for olist_products_dataset.csv
+2023-09-12 19:28:06,132 - root - INFO - starting the logging
+2023-09-12 19:28:06,132 - root - INFO - Calling spark object
+2023-09-12 19:28:06,132 - create_spark - INFO - get_spark_object started
+2023-09-12 19:28:06,132 - create_spark - INFO - get_spark_object started
+2023-09-12 19:28:06,132 - create_spark - INFO - master is local
+2023-09-12 19:28:06,132 - create_spark - INFO - master is local
+2023-09-12 19:28:10,313 - create_spark - INFO - spark object created
+2023-09-12 19:28:10,313 - create_spark - INFO - spark object created
+2023-09-12 19:28:10,313 - root - INFO - validating spark object
+2023-09-12 19:28:10,313 - validate - WARNING - started the get current date method
+2023-09-12 19:28:10,313 - validate - WARNING - started the get current date method
+2023-09-12 19:28:13,015 - validate - WARNING - Validating current date[Row(current_date()=datetime.date(2023, 9, 12))]
+2023-09-12 19:28:13,015 - validate - WARNING - Validating current date[Row(current_date()=datetime.date(2023, 9, 12))]
+2023-09-12 19:28:13,015 - validate - WARNING - Validation Done
+2023-09-12 19:28:13,015 - validate - WARNING - Validation Done
+2023-09-12 19:28:13,015 - root - INFO - validating File Type
+2023-09-12 19:28:13,015 - root - INFO - File Type is .CSV for olist_customers_dataset.csv
+2023-09-12 19:28:13,015 - root - INFO - File Type is .CSV for olist_orders_dataset.csv
+2023-09-12 19:28:13,015 - root - INFO - File Type is .CSV for olist_order_items_dataset.csv
+2023-09-12 19:28:13,015 - root - INFO - File Type is .CSV for olist_products_dataset.csv
+2023-09-12 19:28:13,015 - validate - ERROR - File Type is not .CSVtest.txt
+2023-09-12 19:28:13,015 - validate - ERROR - File Type is not .CSVtest.txt
+2023-09-12 19:28:13,016 - root - INFO - Application Done
+2023-09-14 19:27:32,972 - root - INFO - starting the logging
+2023-09-14 19:27:32,972 - root - INFO - Calling spark object
+2023-09-14 19:27:32,972 - create_spark - INFO - get_spark_object started
+2023-09-14 19:27:32,972 - create_spark - INFO - get_spark_object started
+2023-09-14 19:27:32,972 - create_spark - INFO - master is local
+2023-09-14 19:27:32,972 - create_spark - INFO - master is local
+2023-09-14 19:27:37,885 - create_spark - INFO - spark object created
+2023-09-14 19:27:37,885 - create_spark - INFO - spark object created
+2023-09-14 19:27:37,885 - root - INFO - Reading files which is of csv
+2023-09-14 19:27:37,885 - ingest - WARNING - load files method started
+2023-09-14 19:27:37,885 - ingest - WARNING - load files method started
+2023-09-14 19:52:18,379 - root - INFO - starting the logging
+2023-09-14 19:52:18,379 - root - INFO - Calling spark object
+2023-09-14 19:52:18,379 - create_spark - INFO - get_spark_object started
+2023-09-14 19:52:18,379 - create_spark - INFO - get_spark_object started
+2023-09-14 19:52:18,379 - create_spark - INFO - master is local
+2023-09-14 19:52:18,379 - create_spark - INFO - master is local
+2023-09-14 19:52:22,677 - create_spark - INFO - spark object created
+2023-09-14 19:52:22,677 - create_spark - INFO - spark object created
+2023-09-14 19:52:22,677 - root - INFO - Reading Input data files
+2023-09-14 19:55:27,476 - root - INFO - starting the logging
+2023-09-14 19:55:27,476 - root - INFO - Calling spark object
+2023-09-14 19:55:27,476 - create_spark - INFO - get_spark_object started
+2023-09-14 19:55:27,476 - create_spark - INFO - get_spark_object started
+2023-09-14 19:55:27,476 - create_spark - INFO - master is local
+2023-09-14 19:55:27,476 - create_spark - INFO - master is local
+2023-09-14 19:55:31,628 - create_spark - INFO - spark object created
+2023-09-14 19:55:31,628 - create_spark - INFO - spark object created
+2023-09-14 19:55:31,628 - root - INFO - Reading Input data files
+2023-09-14 19:55:42,721 - root - INFO - starting the logging
+2023-09-14 19:55:42,721 - root - INFO - Calling spark object
+2023-09-14 19:55:42,721 - create_spark - INFO - get_spark_object started
+2023-09-14 19:55:42,721 - create_spark - INFO - get_spark_object started
+2023-09-14 19:55:42,721 - create_spark - INFO - master is local
+2023-09-14 19:55:42,721 - create_spark - INFO - master is local
+2023-09-14 19:55:46,812 - create_spark - INFO - spark object created
+2023-09-14 19:55:46,812 - create_spark - INFO - spark object created
+2023-09-14 19:55:46,812 - root - INFO - Reading Input data files
+2023-09-14 19:55:46,812 - ingest - WARNING - load files method started
+2023-09-14 19:55:46,812 - ingest - WARNING - load files method started
+2023-09-14 19:59:27,098 - root - INFO - starting the logging
+2023-09-14 19:59:27,099 - root - INFO - Calling spark object
+2023-09-14 19:59:27,099 - create_spark - INFO - get_spark_object started
+2023-09-14 19:59:27,099 - create_spark - INFO - get_spark_object started
+2023-09-14 19:59:27,099 - create_spark - INFO - master is local
+2023-09-14 19:59:27,099 - create_spark - INFO - master is local
+2023-09-14 19:59:33,982 - create_spark - INFO - spark object created
+2023-09-14 19:59:33,982 - create_spark - INFO - spark object created
+2023-09-14 19:59:33,983 - root - INFO - Reading Input data files
+2023-09-14 19:59:33,983 - ingest - WARNING - load files method started
+2023-09-14 19:59:33,983 - ingest - WARNING - load files method started
+2023-09-14 20:01:23,736 - root - INFO - starting the logging
+2023-09-14 20:01:23,736 - root - INFO - Calling spark object
+2023-09-14 20:01:23,736 - create_spark - INFO - get_spark_object started
+2023-09-14 20:01:23,736 - create_spark - INFO - get_spark_object started
+2023-09-14 20:01:23,736 - create_spark - INFO - master is local
+2023-09-14 20:01:23,736 - create_spark - INFO - master is local
+2023-09-14 20:01:29,737 - create_spark - INFO - spark object created
+2023-09-14 20:01:29,737 - create_spark - INFO - spark object created
+2023-09-14 20:01:29,737 - root - INFO - Reading Input data files
+2023-09-14 20:01:29,737 - ingest - WARNING - load files method started
+2023-09-14 20:01:29,737 - ingest - WARNING - load files method started
+2023-09-14 20:02:36,500 - root - INFO - starting the logging
+2023-09-14 20:02:36,500 - root - INFO - Calling spark object
+2023-09-14 20:02:36,500 - create_spark - INFO - get_spark_object started
+2023-09-14 20:02:36,500 - create_spark - INFO - get_spark_object started
+2023-09-14 20:02:36,500 - create_spark - INFO - master is local
+2023-09-14 20:02:36,500 - create_spark - INFO - master is local
+2023-09-14 20:02:40,566 - create_spark - INFO - spark object created
+2023-09-14 20:02:40,566 - create_spark - INFO - spark object created
+2023-09-14 20:02:40,566 - root - INFO - Reading Input data files
+2023-09-14 20:02:40,566 - ingest - WARNING - load files method started
+2023-09-14 20:02:40,566 - ingest - WARNING - load files method started
+2023-09-14 20:05:49,180 - root - INFO - starting the logging
+2023-09-14 20:05:49,180 - root - INFO - Calling spark object
+2023-09-14 20:05:49,180 - create_spark - INFO - get_spark_object started
+2023-09-14 20:05:49,180 - create_spark - INFO - get_spark_object started
+2023-09-14 20:05:49,180 - create_spark - INFO - master is local
+2023-09-14 20:05:49,180 - create_spark - INFO - master is local
+2023-09-14 20:05:53,600 - create_spark - INFO - spark object created
+2023-09-14 20:05:53,600 - create_spark - INFO - spark object created
+2023-09-14 20:05:53,600 - root - INFO - Reading Input data files
+2023-09-14 20:05:53,600 - ingest - WARNING - load files method started
+2023-09-14 20:05:53,600 - ingest - WARNING - load files method started
+2023-09-14 20:09:08,813 - root - INFO - starting the logging
+2023-09-14 20:09:08,813 - root - INFO - Calling spark object
+2023-09-14 20:09:08,813 - create_spark - INFO - get_spark_object started
+2023-09-14 20:09:08,813 - create_spark - INFO - get_spark_object started
+2023-09-14 20:09:08,813 - create_spark - INFO - master is local
+2023-09-14 20:09:08,813 - create_spark - INFO - master is local
+2023-09-14 20:09:12,853 - create_spark - INFO - spark object created
+2023-09-14 20:09:12,853 - create_spark - INFO - spark object created
+2023-09-14 20:09:12,853 - root - INFO - Reading Input data files
+2023-09-14 20:09:12,853 - ingest - WARNING - load files method started
+2023-09-14 20:09:12,853 - ingest - WARNING - load files method started
+2023-09-14 20:11:19,774 - root - INFO - starting the logging
+2023-09-14 20:11:19,774 - root - INFO - Calling spark object
+2023-09-14 20:11:19,774 - create_spark - INFO - get_spark_object started
+2023-09-14 20:11:19,774 - create_spark - INFO - get_spark_object started
+2023-09-14 20:11:19,774 - create_spark - INFO - master is local
+2023-09-14 20:11:19,774 - create_spark - INFO - master is local
+2023-09-14 20:11:25,885 - create_spark - INFO - spark object created
+2023-09-14 20:11:25,885 - create_spark - INFO - spark object created
+2023-09-14 20:11:25,885 - root - INFO - Reading Input data files
+2023-09-14 20:14:34,249 - root - INFO - starting the logging
+2023-09-14 20:14:34,249 - root - INFO - Calling spark object
+2023-09-14 20:14:34,249 - create_spark - INFO - get_spark_object started
+2023-09-14 20:14:34,249 - create_spark - INFO - get_spark_object started
+2023-09-14 20:14:34,249 - create_spark - INFO - master is local
+2023-09-14 20:14:34,249 - create_spark - INFO - master is local
+2023-09-14 20:14:40,298 - create_spark - INFO - spark object created
+2023-09-14 20:14:40,298 - create_spark - INFO - spark object created
+2023-09-14 20:14:40,298 - root - INFO - Reading Input data files
+2023-09-14 20:14:40,298 - ingest - WARNING - load files method started
+2023-09-14 20:14:40,298 - ingest - WARNING - load files method started
+2023-09-14 20:14:46,376 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 20:14:46,376 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 20:14:46,376 - root - INFO - Application Done
+2023-09-14 20:20:06,394 - root - INFO - starting the logging
+2023-09-14 20:20:06,394 - root - INFO - Calling spark object
+2023-09-14 20:20:06,394 - create_spark - INFO - get_spark_object started
+2023-09-14 20:20:06,394 - create_spark - INFO - get_spark_object started
+2023-09-14 20:20:06,394 - create_spark - INFO - master is local
+2023-09-14 20:20:06,394 - create_spark - INFO - master is local
+2023-09-14 20:20:10,604 - create_spark - INFO - spark object created
+2023-09-14 20:20:10,604 - create_spark - INFO - spark object created
+2023-09-14 20:20:10,605 - root - INFO - Reading Input data files
+2023-09-14 20:20:10,605 - root - INFO - Reading Customer Input data files
+2023-09-14 20:20:10,605 - ingest - WARNING - load files method started
+2023-09-14 20:20:10,605 - ingest - WARNING - load files method started
+2023-09-14 20:20:14,607 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 20:20:14,607 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 20:20:14,750 - root - INFO - Application Done
+2023-09-14 20:23:14,667 - root - INFO - starting the logging
+2023-09-14 20:23:14,667 - root - INFO - Calling spark object
+2023-09-14 20:23:14,667 - create_spark - INFO - get_spark_object started
+2023-09-14 20:23:14,667 - create_spark - INFO - get_spark_object started
+2023-09-14 20:23:14,668 - create_spark - INFO - master is local
+2023-09-14 20:23:14,668 - create_spark - INFO - master is local
+2023-09-14 20:23:18,887 - create_spark - INFO - spark object created
+2023-09-14 20:23:18,887 - create_spark - INFO - spark object created
+2023-09-14 20:23:18,887 - root - INFO - Reading Input data files
+2023-09-14 20:23:18,888 - root - INFO - Reading Customer Input data files
+2023-09-14 20:23:18,888 - ingest - WARNING - load files method started
+2023-09-14 20:23:18,888 - ingest - WARNING - load files method started
+2023-09-14 20:23:22,703 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 20:23:22,703 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 20:23:22,703 - root - INFO - Reading Order Input data files
+2023-09-14 20:23:22,703 - ingest - WARNING - load files method started
+2023-09-14 20:23:22,703 - ingest - WARNING - load files method started
+2023-09-14 20:23:23,239 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 20:23:23,239 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 20:23:23,366 - root - INFO - Reading Order ITEM Input data files
+2023-09-14 20:23:23,366 - ingest - WARNING - load files method started
+2023-09-14 20:23:23,366 - ingest - WARNING - load files method started
+2023-09-14 20:23:23,739 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 20:23:23,739 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 20:23:23,740 - root - INFO - Reading Products Input data files
+2023-09-14 20:23:23,740 - ingest - WARNING - load files method started
+2023-09-14 20:23:23,740 - ingest - WARNING - load files method started
+2023-09-14 20:23:23,931 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 20:23:23,931 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 20:23:23,931 - root - INFO - Application Done
+2023-09-14 20:24:37,633 - root - INFO - starting the logging
+2023-09-14 20:24:37,634 - root - INFO - Calling spark object
+2023-09-14 20:24:37,634 - create_spark - INFO - get_spark_object started
+2023-09-14 20:24:37,634 - create_spark - INFO - get_spark_object started
+2023-09-14 20:24:37,634 - create_spark - INFO - master is local
+2023-09-14 20:24:37,634 - create_spark - INFO - master is local
+2023-09-14 20:24:41,784 - create_spark - INFO - spark object created
+2023-09-14 20:24:41,784 - create_spark - INFO - spark object created
+2023-09-14 20:24:41,784 - root - INFO - Reading Input data files
+2023-09-14 20:24:41,784 - root - INFO - Reading Customer Input data files
+2023-09-14 20:24:41,784 - ingest - WARNING - load files method started
+2023-09-14 20:24:41,784 - ingest - WARNING - load files method started
+2023-09-14 20:24:45,423 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 20:24:45,423 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 20:24:45,424 - root - INFO - Reading Order Input data files
+2023-09-14 20:24:45,424 - ingest - WARNING - load files method started
+2023-09-14 20:24:45,424 - ingest - WARNING - load files method started
+2023-09-14 20:24:45,763 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 20:24:45,763 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 20:24:45,763 - root - INFO - Reading Order ITEM Input data files
+2023-09-14 20:24:45,763 - ingest - WARNING - load files method started
+2023-09-14 20:24:45,763 - ingest - WARNING - load files method started
+2023-09-14 20:24:46,115 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 20:24:46,115 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 20:24:46,115 - root - INFO - Reading Products Input data files
+2023-09-14 20:24:46,115 - ingest - WARNING - load files method started
+2023-09-14 20:24:46,115 - ingest - WARNING - load files method started
+2023-09-14 20:24:46,305 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 20:24:46,305 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 20:24:46,469 - root - INFO - Application Done
+2023-09-14 23:47:51,685 - root - INFO - starting the logging
+2023-09-14 23:47:51,685 - root - INFO - Calling spark object
+2023-09-14 23:47:51,685 - create_spark - INFO - get_spark_object started
+2023-09-14 23:47:51,685 - create_spark - INFO - get_spark_object started
+2023-09-14 23:47:51,685 - create_spark - INFO - master is local
+2023-09-14 23:47:51,685 - create_spark - INFO - master is local
+2023-09-14 23:47:59,084 - create_spark - INFO - spark object created
+2023-09-14 23:47:59,084 - create_spark - INFO - spark object created
+2023-09-14 23:47:59,084 - root - INFO - Reading Input data files
+2023-09-14 23:47:59,084 - root - INFO - Reading Customer Input data files
+2023-09-14 23:47:59,084 - ingest - WARNING - load files method started
+2023-09-14 23:47:59,084 - ingest - WARNING - load files method started
+2023-09-14 23:48:04,368 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 23:48:04,368 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 23:48:04,368 - validate - WARNING - Check if the dataframe is empty
+2023-09-14 23:48:04,368 - validate - WARNING - Check if the dataframe is empty
+2023-09-14 23:48:33,583 - root - INFO - starting the logging
+2023-09-14 23:48:33,598 - root - INFO - Calling spark object
+2023-09-14 23:48:33,598 - create_spark - INFO - get_spark_object started
+2023-09-14 23:48:33,598 - create_spark - INFO - get_spark_object started
+2023-09-14 23:48:33,598 - create_spark - INFO - master is local
+2023-09-14 23:48:33,598 - create_spark - INFO - master is local
+2023-09-14 23:48:39,832 - create_spark - INFO - spark object created
+2023-09-14 23:48:39,832 - create_spark - INFO - spark object created
+2023-09-14 23:48:39,832 - root - INFO - Reading Input data files
+2023-09-14 23:48:39,832 - root - INFO - Reading Customer Input data files
+2023-09-14 23:48:39,832 - ingest - WARNING - load files method started
+2023-09-14 23:48:39,832 - ingest - WARNING - load files method started
+2023-09-14 23:48:45,082 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 23:48:45,082 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 23:48:45,082 - validate - WARNING - Check if the dataframe is empty
+2023-09-14 23:48:45,082 - validate - WARNING - Check if the dataframe is empty
+2023-09-14 23:48:46,051 - validate - WARNING - Dataframe is valid and not empty
+2023-09-14 23:48:46,051 - validate - WARNING - Dataframe is valid and not empty
+2023-09-14 23:48:46,051 - root - INFO - Reading Order Input data files
+2023-09-14 23:48:46,051 - ingest - WARNING - load files method started
+2023-09-14 23:48:46,051 - ingest - WARNING - load files method started
+2023-09-14 23:48:46,489 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 23:48:46,489 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 23:48:46,489 - root - INFO - Reading Order ITEM Input data files
+2023-09-14 23:48:46,489 - ingest - WARNING - load files method started
+2023-09-14 23:48:46,489 - ingest - WARNING - load files method started
+2023-09-14 23:48:46,973 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 23:48:46,973 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 23:48:46,973 - root - INFO - Reading Products Input data files
+2023-09-14 23:48:46,973 - ingest - WARNING - load files method started
+2023-09-14 23:48:46,973 - ingest - WARNING - load files method started
+2023-09-14 23:48:47,239 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 23:48:47,239 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 23:48:47,239 - root - INFO - Application Done
+2023-09-14 23:50:24,971 - root - INFO - starting the logging
+2023-09-14 23:50:24,971 - root - INFO - Calling spark object
+2023-09-14 23:50:24,971 - create_spark - INFO - get_spark_object started
+2023-09-14 23:50:24,971 - create_spark - INFO - get_spark_object started
+2023-09-14 23:50:24,971 - create_spark - INFO - master is local
+2023-09-14 23:50:24,971 - create_spark - INFO - master is local
+2023-09-14 23:50:30,948 - create_spark - INFO - spark object created
+2023-09-14 23:50:30,948 - create_spark - INFO - spark object created
+2023-09-14 23:50:30,948 - root - INFO - Reading Input data files
+2023-09-14 23:50:30,948 - root - INFO - Reading Customer Input data files
+2023-09-14 23:50:30,948 - ingest - WARNING - load files method started
+2023-09-14 23:50:30,948 - ingest - WARNING - load files method started
+2023-09-14 23:50:36,183 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 23:50:36,183 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 23:50:36,183 - validate - WARNING - Check if the dataframe is empty
+2023-09-14 23:50:36,183 - validate - WARNING - Check if the dataframe is empty
+2023-09-14 23:50:37,137 - validate - WARNING - Dataframe is valid and not empty DataFrame[customer_id: string, customer_unique_id: string, customer_zip_code_prefix: int, customer_city: string, customer_state: string]
+2023-09-14 23:50:37,137 - validate - WARNING - Dataframe is valid and not empty DataFrame[customer_id: string, customer_unique_id: string, customer_zip_code_prefix: int, customer_city: string, customer_state: string]
+2023-09-14 23:50:37,137 - root - INFO - Reading Order Input data files
+2023-09-14 23:50:37,137 - ingest - WARNING - load files method started
+2023-09-14 23:50:37,137 - ingest - WARNING - load files method started
+2023-09-14 23:50:37,590 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 23:50:37,590 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 23:50:37,590 - root - INFO - Reading Order ITEM Input data files
+2023-09-14 23:50:37,590 - ingest - WARNING - load files method started
+2023-09-14 23:50:37,590 - ingest - WARNING - load files method started
+2023-09-14 23:50:38,106 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 23:50:38,106 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 23:50:38,106 - root - INFO - Reading Products Input data files
+2023-09-14 23:50:38,106 - ingest - WARNING - load files method started
+2023-09-14 23:50:38,106 - ingest - WARNING - load files method started
+2023-09-14 23:50:38,341 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 23:50:38,341 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-14 23:50:38,341 - root - INFO - Application Done
+2023-09-15 00:12:50,551 - root - INFO - starting the logging
+2023-09-15 00:12:50,551 - root - INFO - Calling spark object
+2023-09-15 00:12:50,551 - create_spark - INFO - get_spark_object started
+2023-09-15 00:12:50,551 - create_spark - INFO - get_spark_object started
+2023-09-15 00:12:50,551 - create_spark - INFO - master is local
+2023-09-15 00:12:50,551 - create_spark - INFO - master is local
+2023-09-15 00:12:56,584 - create_spark - INFO - spark object created
+2023-09-15 00:12:56,584 - create_spark - INFO - spark object created
+2023-09-15 00:12:56,584 - root - INFO - Reading Input data files
+2023-09-15 00:12:56,584 - root - INFO - Reading Customer Input data files
+2023-09-15 00:12:56,584 - ingest - WARNING - load files method started
+2023-09-15 00:12:56,584 - ingest - WARNING - load files method started
+2023-09-15 00:13:01,913 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:13:01,913 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:13:01,913 - validate - WARNING - Check if the dataframe is empty
+2023-09-15 00:13:01,913 - validate - WARNING - Check if the dataframe is empty
+2023-09-15 00:13:40,383 - root - INFO - starting the logging
+2023-09-15 00:13:40,383 - root - INFO - Calling spark object
+2023-09-15 00:13:40,383 - create_spark - INFO - get_spark_object started
+2023-09-15 00:13:40,383 - create_spark - INFO - get_spark_object started
+2023-09-15 00:13:40,383 - create_spark - INFO - master is local
+2023-09-15 00:13:40,383 - create_spark - INFO - master is local
+2023-09-15 00:13:46,383 - create_spark - INFO - spark object created
+2023-09-15 00:13:46,383 - create_spark - INFO - spark object created
+2023-09-15 00:13:46,383 - root - INFO - Reading Input data files
+2023-09-15 00:13:46,383 - root - INFO - Reading Customer Input data files
+2023-09-15 00:13:46,383 - ingest - WARNING - load files method started
+2023-09-15 00:13:46,383 - ingest - WARNING - load files method started
+2023-09-15 00:13:51,651 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:13:51,651 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:13:51,651 - validate - WARNING - Check if the dataframe is empty
+2023-09-15 00:13:51,651 - validate - WARNING - Check if the dataframe is empty
+2023-09-15 00:13:52,698 - root - INFO - Reading Order Input data files
+2023-09-15 00:13:52,698 - ingest - WARNING - load files method started
+2023-09-15 00:13:52,698 - ingest - WARNING - load files method started
+2023-09-15 00:13:53,167 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:13:53,167 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:13:53,167 - root - INFO - Reading Order ITEM Input data files
+2023-09-15 00:13:53,167 - ingest - WARNING - load files method started
+2023-09-15 00:13:53,167 - ingest - WARNING - load files method started
+2023-09-15 00:13:53,636 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:13:53,636 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:13:53,636 - root - INFO - Reading Products Input data files
+2023-09-15 00:13:53,636 - ingest - WARNING - load files method started
+2023-09-15 00:13:53,636 - ingest - WARNING - load files method started
+2023-09-15 00:13:53,917 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:13:53,917 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:13:53,917 - root - INFO - Application Done
+2023-09-15 00:14:41,377 - root - INFO - starting the logging
+2023-09-15 00:14:41,377 - root - INFO - Calling spark object
+2023-09-15 00:14:41,377 - create_spark - INFO - get_spark_object started
+2023-09-15 00:14:41,377 - create_spark - INFO - get_spark_object started
+2023-09-15 00:14:41,377 - create_spark - INFO - master is local
+2023-09-15 00:14:41,377 - create_spark - INFO - master is local
+2023-09-15 00:14:47,408 - create_spark - INFO - spark object created
+2023-09-15 00:14:47,408 - create_spark - INFO - spark object created
+2023-09-15 00:14:47,408 - root - INFO - Reading Input data files
+2023-09-15 00:14:47,408 - root - INFO - Reading Customer Input data files
+2023-09-15 00:14:47,408 - ingest - WARNING - load files method started
+2023-09-15 00:14:47,408 - ingest - WARNING - load files method started
+2023-09-15 00:14:52,676 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:14:52,676 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:14:52,676 - validate - WARNING - Check if the dataframe is empty
+2023-09-15 00:14:52,676 - validate - WARNING - Check if the dataframe is empty
+2023-09-15 00:14:53,629 - root - INFO - Reading Order Input data files
+2023-09-15 00:14:53,629 - ingest - WARNING - load files method started
+2023-09-15 00:14:53,629 - ingest - WARNING - load files method started
+2023-09-15 00:14:54,098 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:14:54,098 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:14:54,098 - root - INFO - Reading Order ITEM Input data files
+2023-09-15 00:14:54,098 - ingest - WARNING - load files method started
+2023-09-15 00:14:54,098 - ingest - WARNING - load files method started
+2023-09-15 00:14:54,567 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:14:54,567 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:14:54,567 - root - INFO - Reading Products Input data files
+2023-09-15 00:14:54,567 - ingest - WARNING - load files method started
+2023-09-15 00:14:54,567 - ingest - WARNING - load files method started
+2023-09-15 00:14:54,833 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:14:54,833 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:14:54,833 - root - INFO - Application Done
+2023-09-15 00:27:41,692 - root - INFO - starting the logging
+2023-09-15 00:27:41,692 - root - INFO - Calling spark object
+2023-09-15 00:27:41,692 - create_spark - INFO - get_spark_object started
+2023-09-15 00:27:41,692 - create_spark - INFO - get_spark_object started
+2023-09-15 00:27:41,692 - create_spark - INFO - master is local
+2023-09-15 00:27:41,692 - create_spark - INFO - master is local
+2023-09-15 00:27:47,850 - create_spark - INFO - spark object created
+2023-09-15 00:27:47,850 - create_spark - INFO - spark object created
+2023-09-15 00:27:47,850 - root - INFO - Reading Input data files
+2023-09-15 00:27:47,850 - root - INFO - Reading Customer Input data files
+2023-09-15 00:27:47,850 - ingest - WARNING - load files method started
+2023-09-15 00:27:47,850 - ingest - WARNING - load files method started
+2023-09-15 00:27:53,148 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:27:53,148 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:27:53,148 - validate - WARNING - Check if the dataframe is empty
+2023-09-15 00:27:53,148 - validate - WARNING - Check if the dataframe is empty
+2023-09-15 00:29:06,110 - root - INFO - starting the logging
+2023-09-15 00:29:06,110 - root - INFO - Calling spark object
+2023-09-15 00:29:06,110 - create_spark - INFO - get_spark_object started
+2023-09-15 00:29:06,110 - create_spark - INFO - get_spark_object started
+2023-09-15 00:29:06,110 - create_spark - INFO - master is local
+2023-09-15 00:29:06,110 - create_spark - INFO - master is local
+2023-09-15 00:29:12,088 - create_spark - INFO - spark object created
+2023-09-15 00:29:12,088 - create_spark - INFO - spark object created
+2023-09-15 00:29:12,088 - root - INFO - Reading Input data files
+2023-09-15 00:29:12,088 - root - INFO - Reading Customer Input data files
+2023-09-15 00:29:12,088 - ingest - WARNING - load files method started
+2023-09-15 00:29:12,088 - ingest - WARNING - load files method started
+2023-09-15 00:29:17,371 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:29:17,371 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:29:17,371 - validate - WARNING - Check if the dataframe is empty
+2023-09-15 00:29:17,371 - validate - WARNING - Check if the dataframe is empty
+2023-09-15 00:30:28,603 - root - INFO - starting the logging
+2023-09-15 00:30:28,603 - root - INFO - Calling spark object
+2023-09-15 00:30:28,603 - create_spark - INFO - get_spark_object started
+2023-09-15 00:30:28,603 - create_spark - INFO - get_spark_object started
+2023-09-15 00:30:28,603 - create_spark - INFO - master is local
+2023-09-15 00:30:28,603 - create_spark - INFO - master is local
+2023-09-15 00:30:34,667 - create_spark - INFO - spark object created
+2023-09-15 00:30:34,667 - create_spark - INFO - spark object created
+2023-09-15 00:30:34,667 - root - INFO - Reading Input data files
+2023-09-15 00:30:34,667 - root - INFO - Reading Customer Input data files
+2023-09-15 00:30:34,667 - ingest - WARNING - load files method started
+2023-09-15 00:30:34,667 - ingest - WARNING - load files method started
+2023-09-15 00:30:39,916 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:30:39,916 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:30:39,916 - validate - WARNING - Check if the dataframe is empty
+2023-09-15 00:30:39,916 - validate - WARNING - Check if the dataframe is empty
+2023-09-15 00:30:40,995 - root - INFO - Reading Order Input data files
+2023-09-15 00:30:40,995 - ingest - WARNING - load files method started
+2023-09-15 00:30:40,995 - ingest - WARNING - load files method started
+2023-09-15 00:30:41,464 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:30:41,464 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:30:41,464 - root - INFO - Reading Order ITEM Input data files
+2023-09-15 00:30:41,464 - ingest - WARNING - load files method started
+2023-09-15 00:30:41,464 - ingest - WARNING - load files method started
+2023-09-15 00:30:41,995 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:30:41,995 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:30:41,995 - root - INFO - Reading Products Input data files
+2023-09-15 00:30:41,995 - ingest - WARNING - load files method started
+2023-09-15 00:30:41,995 - ingest - WARNING - load files method started
+2023-09-15 00:30:42,260 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:30:42,260 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:30:42,260 - root - INFO - Application Done
+2023-09-15 00:31:13,357 - root - INFO - starting the logging
+2023-09-15 00:31:13,357 - root - INFO - Calling spark object
+2023-09-15 00:31:13,357 - create_spark - INFO - get_spark_object started
+2023-09-15 00:31:13,357 - create_spark - INFO - get_spark_object started
+2023-09-15 00:31:13,357 - create_spark - INFO - master is local
+2023-09-15 00:31:13,357 - create_spark - INFO - master is local
+2023-09-15 00:31:19,510 - create_spark - INFO - spark object created
+2023-09-15 00:31:19,510 - create_spark - INFO - spark object created
+2023-09-15 00:31:19,510 - root - INFO - Reading Input data files
+2023-09-15 00:31:19,510 - root - INFO - Reading Customer Input data files
+2023-09-15 00:31:19,510 - ingest - WARNING - load files method started
+2023-09-15 00:31:19,510 - ingest - WARNING - load files method started
+2023-09-15 00:31:24,778 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:31:24,778 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:31:24,778 - validate - WARNING - Check if the dataframe is empty
+2023-09-15 00:31:24,778 - validate - WARNING - Check if the dataframe is empty
+2023-09-15 00:31:29,185 - root - INFO - Reading Order Input data files
+2023-09-15 00:31:29,185 - ingest - WARNING - load files method started
+2023-09-15 00:31:29,185 - ingest - WARNING - load files method started
+2023-09-15 00:31:29,607 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:31:29,607 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:31:29,607 - root - INFO - Reading Order ITEM Input data files
+2023-09-15 00:31:29,607 - ingest - WARNING - load files method started
+2023-09-15 00:31:29,607 - ingest - WARNING - load files method started
+2023-09-15 00:31:30,029 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:31:30,029 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:31:30,029 - root - INFO - Reading Products Input data files
+2023-09-15 00:31:30,029 - ingest - WARNING - load files method started
+2023-09-15 00:31:30,029 - ingest - WARNING - load files method started
+2023-09-15 00:31:30,232 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:31:30,232 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:31:30,232 - root - INFO - Application Done
+2023-09-15 00:37:00,551 - root - INFO - starting the logging
+2023-09-15 00:37:00,551 - root - INFO - Calling spark object
+2023-09-15 00:37:00,551 - create_spark - INFO - get_spark_object started
+2023-09-15 00:37:00,551 - create_spark - INFO - get_spark_object started
+2023-09-15 00:37:00,551 - create_spark - INFO - master is local
+2023-09-15 00:37:00,551 - create_spark - INFO - master is local
+2023-09-15 00:37:06,524 - create_spark - INFO - spark object created
+2023-09-15 00:37:06,524 - create_spark - INFO - spark object created
+2023-09-15 00:37:06,524 - root - INFO - Reading Input data files
+2023-09-15 00:37:06,524 - root - INFO - Reading Customer Input data files
+2023-09-15 00:37:06,524 - ingest - WARNING - load files method started
+2023-09-15 00:37:06,524 - ingest - WARNING - load files method started
+2023-09-15 00:37:11,806 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:37:11,806 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:37:11,806 - validate - WARNING - Check if the dataframe is empty
+2023-09-15 00:37:11,806 - validate - WARNING - Check if the dataframe is empty
+2023-09-15 00:39:11,385 - root - INFO - Reading Order Input data files
+2023-09-15 00:39:11,385 - ingest - WARNING - load files method started
+2023-09-15 00:39:11,385 - ingest - WARNING - load files method started
+2023-09-15 00:39:11,682 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:39:11,682 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:39:11,682 - root - INFO - Reading Order ITEM Input data files
+2023-09-15 00:39:11,682 - ingest - WARNING - load files method started
+2023-09-15 00:39:11,682 - ingest - WARNING - load files method started
+2023-09-15 00:39:11,995 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:39:11,995 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:39:11,995 - root - INFO - Reading Products Input data files
+2023-09-15 00:39:11,995 - ingest - WARNING - load files method started
+2023-09-15 00:39:11,995 - ingest - WARNING - load files method started
+2023-09-15 00:39:12,136 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:39:12,136 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:39:12,136 - root - INFO - Application Done
+2023-09-15 00:41:23,925 - root - INFO - starting the logging
+2023-09-15 00:41:23,925 - root - INFO - Calling spark object
+2023-09-15 00:41:23,925 - create_spark - INFO - get_spark_object started
+2023-09-15 00:41:23,925 - create_spark - INFO - get_spark_object started
+2023-09-15 00:41:23,925 - create_spark - INFO - master is local
+2023-09-15 00:41:23,925 - create_spark - INFO - master is local
+2023-09-15 00:41:27,913 - create_spark - INFO - spark object created
+2023-09-15 00:41:27,913 - create_spark - INFO - spark object created
+2023-09-15 00:41:27,913 - root - INFO - Reading Input data files
+2023-09-15 00:41:27,913 - root - INFO - Reading Customer Input data files
+2023-09-15 00:41:27,913 - ingest - WARNING - load files method started
+2023-09-15 00:41:27,913 - ingest - WARNING - load files method started
+2023-09-15 00:41:31,446 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:41:31,446 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:41:31,446 - validate - WARNING - Check if the dataframe is empty
+2023-09-15 00:41:31,446 - validate - WARNING - Check if the dataframe is empty
+2023-09-15 00:42:58,158 - root - INFO - Reading Order Input data files
+2023-09-15 00:42:58,158 - ingest - WARNING - load files method started
+2023-09-15 00:42:58,158 - ingest - WARNING - load files method started
+2023-09-15 00:42:58,424 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:42:58,424 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:42:58,424 - root - INFO - Reading Order ITEM Input data files
+2023-09-15 00:42:58,424 - ingest - WARNING - load files method started
+2023-09-15 00:42:58,424 - ingest - WARNING - load files method started
+2023-09-15 00:42:58,705 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:42:58,705 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:42:58,705 - root - INFO - Reading Products Input data files
+2023-09-15 00:42:58,705 - ingest - WARNING - load files method started
+2023-09-15 00:42:58,705 - ingest - WARNING - load files method started
+2023-09-15 00:42:58,877 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:42:58,877 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:42:58,877 - root - INFO - Application Done
+2023-09-15 00:48:12,997 - root - INFO - starting the logging
+2023-09-15 00:48:12,997 - root - INFO - Calling spark object
+2023-09-15 00:48:12,997 - create_spark - INFO - get_spark_object started
+2023-09-15 00:48:12,997 - create_spark - INFO - get_spark_object started
+2023-09-15 00:48:12,997 - create_spark - INFO - master is local
+2023-09-15 00:48:12,997 - create_spark - INFO - master is local
+2023-09-15 00:48:16,988 - create_spark - INFO - spark object created
+2023-09-15 00:48:16,988 - create_spark - INFO - spark object created
+2023-09-15 00:48:16,988 - root - INFO - Reading Input data files
+2023-09-15 00:48:16,988 - root - INFO - Reading Customer Input data files
+2023-09-15 00:48:16,988 - ingest - WARNING - load files method started
+2023-09-15 00:48:16,988 - ingest - WARNING - load files method started
+2023-09-15 00:48:20,521 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:48:20,521 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:50:55,368 - root - INFO - starting the logging
+2023-09-15 00:50:55,368 - root - INFO - Calling spark object
+2023-09-15 00:50:55,368 - create_spark - INFO - get_spark_object started
+2023-09-15 00:50:55,368 - create_spark - INFO - get_spark_object started
+2023-09-15 00:50:55,368 - create_spark - INFO - master is local
+2023-09-15 00:50:55,368 - create_spark - INFO - master is local
+2023-09-15 00:50:59,409 - create_spark - INFO - spark object created
+2023-09-15 00:50:59,409 - create_spark - INFO - spark object created
+2023-09-15 00:50:59,409 - root - INFO - Reading Input data files
+2023-09-15 00:50:59,409 - root - INFO - Reading Customer Input data files
+2023-09-15 00:50:59,409 - ingest - WARNING - load files method started
+2023-09-15 00:50:59,409 - ingest - WARNING - load files method started
+2023-09-15 00:51:02,941 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:51:02,941 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:53:22,104 - root - INFO - starting the logging
+2023-09-15 00:53:22,104 - root - INFO - Calling spark object
+2023-09-15 00:53:22,104 - create_spark - INFO - get_spark_object started
+2023-09-15 00:53:22,104 - create_spark - INFO - get_spark_object started
+2023-09-15 00:53:22,104 - create_spark - INFO - master is local
+2023-09-15 00:53:22,104 - create_spark - INFO - master is local
+2023-09-15 00:53:26,135 - create_spark - INFO - spark object created
+2023-09-15 00:53:26,135 - create_spark - INFO - spark object created
+2023-09-15 00:53:26,135 - root - INFO - Reading Input data files
+2023-09-15 00:53:26,135 - root - INFO - Reading Customer Input data files
+2023-09-15 00:53:26,135 - ingest - WARNING - load files method started
+2023-09-15 00:53:26,135 - ingest - WARNING - load files method started
+2023-09-15 00:53:29,667 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:53:29,667 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:54:55,606 - root - INFO - Reading Order Input data files
+2023-09-15 00:54:55,606 - ingest - WARNING - load files method started
+2023-09-15 00:54:55,606 - ingest - WARNING - load files method started
+2023-09-15 00:54:55,872 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:54:55,872 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:54:55,872 - root - INFO - Reading Order ITEM Input data files
+2023-09-15 00:54:55,872 - ingest - WARNING - load files method started
+2023-09-15 00:54:55,872 - ingest - WARNING - load files method started
+2023-09-15 00:54:56,185 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:54:56,185 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:54:56,185 - root - INFO - Reading Products Input data files
+2023-09-15 00:54:56,185 - ingest - WARNING - load files method started
+2023-09-15 00:54:56,185 - ingest - WARNING - load files method started
+2023-09-15 00:54:56,341 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:54:56,341 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:54:56,341 - root - INFO - Application Done
+2023-09-15 00:56:15,783 - root - INFO - starting the logging
+2023-09-15 00:56:15,783 - root - INFO - Calling spark object
+2023-09-15 00:56:15,783 - create_spark - INFO - get_spark_object started
+2023-09-15 00:56:15,783 - create_spark - INFO - get_spark_object started
+2023-09-15 00:56:15,783 - create_spark - INFO - master is local
+2023-09-15 00:56:15,783 - create_spark - INFO - master is local
+2023-09-15 00:56:19,807 - create_spark - INFO - spark object created
+2023-09-15 00:56:19,807 - create_spark - INFO - spark object created
+2023-09-15 00:56:19,807 - root - INFO - Reading Input data files
+2023-09-15 00:56:19,807 - root - INFO - Reading Customer Input data files
+2023-09-15 00:56:19,807 - ingest - WARNING - load files method started
+2023-09-15 00:56:19,807 - ingest - WARNING - load files method started
+2023-09-15 00:56:23,387 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:56:23,387 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:57:49,534 - root - INFO - Reading Order Input data files
+2023-09-15 00:57:49,534 - ingest - WARNING - load files method started
+2023-09-15 00:57:49,534 - ingest - WARNING - load files method started
+2023-09-15 00:57:49,799 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:57:49,799 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:57:49,799 - root - INFO - Reading Order ITEM Input data files
+2023-09-15 00:57:49,799 - ingest - WARNING - load files method started
+2023-09-15 00:57:49,799 - ingest - WARNING - load files method started
+2023-09-15 00:57:50,080 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:57:50,080 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:57:50,080 - root - INFO - Reading Products Input data files
+2023-09-15 00:57:50,080 - ingest - WARNING - load files method started
+2023-09-15 00:57:50,080 - ingest - WARNING - load files method started
+2023-09-15 00:57:50,237 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:57:50,237 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 00:57:50,237 - root - INFO - Application Done
+2023-09-15 01:02:49,932 - root - INFO - starting the logging
+2023-09-15 01:02:49,932 - root - INFO - Calling spark object
+2023-09-15 01:02:49,932 - create_spark - INFO - get_spark_object started
+2023-09-15 01:02:49,932 - create_spark - INFO - get_spark_object started
+2023-09-15 01:02:49,932 - create_spark - INFO - master is local
+2023-09-15 01:02:49,932 - create_spark - INFO - master is local
+2023-09-15 01:02:53,937 - create_spark - INFO - spark object created
+2023-09-15 01:02:53,937 - create_spark - INFO - spark object created
+2023-09-15 01:02:53,937 - root - INFO - Reading Input data files
+2023-09-15 01:02:53,937 - root - INFO - Reading Customer Input data files
+2023-09-15 01:02:53,937 - ingest - WARNING - load files method started
+2023-09-15 01:02:53,937 - ingest - WARNING - load files method started
+2023-09-15 01:02:57,469 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 01:02:57,469 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 01:06:04,687 - root - INFO - starting the logging
+2023-09-15 01:06:04,687 - root - INFO - Calling spark object
+2023-09-15 01:06:04,687 - create_spark - INFO - get_spark_object started
+2023-09-15 01:06:04,687 - create_spark - INFO - get_spark_object started
+2023-09-15 01:06:04,687 - create_spark - INFO - master is local
+2023-09-15 01:06:04,687 - create_spark - INFO - master is local
+2023-09-15 01:06:08,748 - create_spark - INFO - spark object created
+2023-09-15 01:06:08,748 - create_spark - INFO - spark object created
+2023-09-15 01:06:08,748 - root - INFO - Reading Input data files
+2023-09-15 01:06:08,748 - root - INFO - Reading Customer Input data files
+2023-09-15 01:06:08,748 - ingest - WARNING - load files method started
+2023-09-15 01:06:08,748 - ingest - WARNING - load files method started
+2023-09-15 01:06:12,326 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 01:06:12,326 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 01:09:03,002 - root - INFO - Reading Order Input data files
+2023-09-15 01:09:03,002 - ingest - WARNING - load files method started
+2023-09-15 01:09:03,002 - ingest - WARNING - load files method started
+2023-09-15 01:09:03,267 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 01:09:03,267 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 01:09:03,267 - root - INFO - Reading Order ITEM Input data files
+2023-09-15 01:09:03,267 - ingest - WARNING - load files method started
+2023-09-15 01:09:03,267 - ingest - WARNING - load files method started
+2023-09-15 01:09:03,549 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 01:09:03,549 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 01:09:03,549 - root - INFO - Reading Products Input data files
+2023-09-15 01:09:03,549 - ingest - WARNING - load files method started
+2023-09-15 01:09:03,549 - ingest - WARNING - load files method started
+2023-09-15 01:09:03,689 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 01:09:03,689 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 01:09:03,689 - root - INFO - Application Done
+2023-09-15 19:16:45,901 - root - INFO - starting the logging
+2023-09-15 19:16:45,901 - root - INFO - Calling spark object
+2023-09-15 19:16:45,901 - create_spark - INFO - get_spark_object started
+2023-09-15 19:16:45,901 - create_spark - INFO - get_spark_object started
+2023-09-15 19:16:45,901 - create_spark - INFO - master is local
+2023-09-15 19:16:45,901 - create_spark - INFO - master is local
+2023-09-15 19:16:51,475 - create_spark - INFO - spark object created
+2023-09-15 19:16:51,475 - create_spark - INFO - spark object created
+2023-09-15 19:16:51,475 - root - INFO - Reading Input data files
+2023-09-15 19:16:51,475 - root - INFO - Reading Customer Input data files
+2023-09-15 19:16:51,475 - ingest - WARNING - load files method started
+2023-09-15 19:16:51,475 - ingest - WARNING - load files method started
+2023-09-15 19:16:56,426 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 19:16:56,426 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 19:19:50,383 - root - INFO - Reading Order Input data files
+2023-09-15 19:19:50,383 - ingest - WARNING - load files method started
+2023-09-15 19:19:50,383 - ingest - WARNING - load files method started
+2023-09-15 19:19:51,046 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 19:19:51,046 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 19:19:51,046 - root - INFO - Reading Order ITEM Input data files
+2023-09-15 19:19:51,046 - ingest - WARNING - load files method started
+2023-09-15 19:19:51,046 - ingest - WARNING - load files method started
+2023-09-15 19:19:51,361 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 19:19:51,361 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 19:19:51,361 - root - INFO - Reading Products Input data files
+2023-09-15 19:19:51,361 - ingest - WARNING - load files method started
+2023-09-15 19:19:51,361 - ingest - WARNING - load files method started
+2023-09-15 19:19:51,518 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 19:19:51,518 - ingest - WARNING - dataframe created successfully which is of csv
+2023-09-15 19:19:51,518 - root - INFO - Application Done
